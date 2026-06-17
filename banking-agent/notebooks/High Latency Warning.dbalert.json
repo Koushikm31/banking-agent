@@ -1,0 +1,25 @@
+{
+  "evaluation": {
+    "source": {},
+    "comparison_operator": "EQUAL",
+    "threshold": {},
+    "notification": {
+      "retrigger_seconds": 0
+    }
+  },
+  "schedule": {
+    "quartz_cron_schedule": "31 0 9 ? * Mon",
+    "timezone_id": "Asia/Calcutta"
+  },
+  "query_lines": [
+    "SELECT ",
+    "    AVG(latency_ms) as avg_latency,",
+    "    CASE ",
+    "        WHEN AVG(latency_ms) > 500 THEN 'WARNING'",
+    "        WHEN AVG(latency_ms) > 1000 THEN 'CRITICAL'",
+    "        ELSE 'OK'",
+    "    END as status",
+    "FROM banking_agent_db.request_logs",
+    "WHERE timestamp >= CURRENT_TIMESTAMP - INTERVAL 1 HOUR"
+  ]
+}

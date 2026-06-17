@@ -1,0 +1,249 @@
+
+BANKING POLICY MANUAL
+
+ACCOUNT POLICIES
+
+1. Minimum balance requirement: Customers must maintain a minimum balance of $500 in their accounts at all times. Failure to maintain the minimum balance may result in monthly maintenance charges.
+
+2. Account types available: The bank offers Checking Accounts, Savings Accounts, Business Accounts, Money Market Accounts, and Student Accounts. Each account type has different features, fees, and benefits.
+
+3. Monthly maintenance fee: A maintenance fee of $10 per month applies to standard checking accounts. The fee is waived if the average monthly balance exceeds $5,000.
+
+4. Account opening requirements: Customers must provide a valid government-issued photo ID, proof of address, tax identification number, and an initial deposit of at least $100.
+
+5. Account closure policy: Customers wishing to close an account must provide a written request. The account should remain active for at least 30 days after opening. Remaining funds will be transferred or issued via cashier's check.
+
+6. Joint accounts: Joint account holders share equal responsibility and access rights. Any account holder may initiate transactions unless otherwise specified.
+
+7. Dormant accounts: Accounts with no activity for 12 consecutive months may be classified as dormant. Additional verification may be required to reactivate such accounts.
+
+8. Statement generation: Monthly statements are generated electronically by default. Customers may request paper statements for an additional fee.
+
+9. Beneficiary registration: Customers are encouraged to nominate beneficiaries to simplify inheritance procedures.
+
+10. Account upgrades: Customers may request upgrades between account types subject to eligibility requirements.
+
+TRANSFER POLICIES
+
+1. Domestic transfer limit: Customers may transfer up to $10,000 per transaction.
+
+2. Daily transfer limit: The maximum transfer amount allowed in a single day is $25,000.
+
+3. Weekly transfer limit: Customers may not exceed $100,000 in transfers within a seven-day period.
+
+4. Processing times: Transfers submitted before 3 PM are processed on the same business day. Requests submitted after 3 PM are processed on the next business day.
+
+5. Internal transfers: Transfers between accounts within the same bank are processed instantly and are free of charge.
+
+6. External transfers: Transfers to other banks incur a service fee of $2.50 per transaction.
+
+7. International transfers: International transfers are available to approved countries. A service fee of $15 applies per transaction.
+
+8. Verification requirements: Transfers above $1,000 require email or SMS confirmation.
+
+9. Transfer cancellations: Transfers may be canceled before processing begins. Processed transactions cannot be canceled.
+
+10. Recipient verification: Customers are responsible for ensuring recipient account information is accurate.
+
+11. High-risk transfers: Additional verification procedures may apply for unusually large transactions.
+
+12. Scheduled transfers: Customers may schedule recurring transfers for future dates.
+
+13. Transfer disputes: Disputed transfers are reviewed within 5 business days.
+
+14. Holiday processing: Transfers submitted during public holidays are processed on the next working day.
+
+15. Compliance review: Certain international transfers may be delayed for regulatory review.
+
+REFUND POLICIES
+
+1. Refund eligibility: Refund requests must be submitted within 30 days of the original transaction date.
+
+2. Refund processing: Approved refunds are processed within 3–5 business days.
+
+3. Disputed transactions: Disputes are investigated within 10 business days.
+
+4. Refund amount: Eligible refunds include the original transaction amount and applicable accrued interest.
+
+5. Refund method: Refunds are credited to the original payment method whenever possible.
+
+6. Partial refunds: Partial refunds may be approved when only part of a transaction is disputed.
+
+7. Merchant disputes: Merchant-related disputes require supporting documentation.
+
+8. Duplicate transactions: Duplicate charges are automatically reviewed and corrected when identified.
+
+9. Chargeback requests: Customers may request chargebacks for unauthorized transactions.
+
+10. Refund notifications: Customers receive email notifications once refunds are processed.
+
+11. Refund tracking: Refund status may be tracked through online banking.
+
+12. International transaction refunds: Additional processing time may apply for international transactions.
+
+13. Service refunds: Fees charged in error will be refunded after investigation.
+
+14. Escalation process: Unresolved disputes may be escalated to the dispute resolution team.
+
+15. Documentation requirements: Supporting evidence may be requested for dispute investigations.
+
+FRAUD PROTECTION POLICIES
+
+1. Transaction monitoring: All transactions are monitored continuously for suspicious activity.
+
+2. Fraud alerts: Customers receive automatic notifications for unusual transactions.
+
+3. Verification threshold: Transactions exceeding $1,000 require additional verification.
+
+4. Fraud response time: Reported fraud incidents receive an initial response within 24 hours.
+
+5. Liability protection: Customer liability is limited to $50 when unauthorized activity is reported promptly.
+
+6. Account freezes: Accounts suspected of compromise may be temporarily frozen.
+
+7. Investigation process: Fraud investigations are conducted thoroughly using transaction records and security logs.
+
+8. Identity verification: Additional identification may be required during investigations.
+
+9. Suspicious login detection: Logins from unknown locations may trigger security alerts.
+
+10. Device monitoring: Device fingerprinting technology helps identify suspicious activity.
+
+11. Card protection: Lost or stolen cards should be reported immediately.
+
+12. Risk scoring: Transactions are assigned fraud risk scores automatically.
+
+13. Law enforcement cooperation: The bank cooperates with law enforcement when required.
+
+14. Customer education: Security awareness information is provided regularly.
+
+15. Fraud recovery: Recovery efforts are initiated whenever possible.
+
+ACCOUNT SECURITY POLICIES
+
+1. Two-factor authentication is available for all customers.
+
+2. Passwords must contain at least 8 characters, one uppercase letter, one number, and one special character.
+
+3. Passwords should not be shared with anyone.
+
+4. Session timeout occurs after 15 minutes of inactivity.
+
+5. Login alerts are sent via email and SMS.
+
+6. Trusted device registration is available.
+
+7. Customers should update passwords every 90 days.
+
+8. Security questions may be required for identity verification.
+
+9. Login attempts are limited to prevent brute-force attacks.
+
+10. Encrypted communication is used for all online banking activities.
+
+11. Customers should avoid accessing banking services on public computers.
+
+12. Browser compatibility requirements are published regularly.
+
+13. Security updates are deployed routinely.
+
+14. Security incidents are reviewed by dedicated teams.
+
+15. Unauthorized access attempts are logged and monitored.
+
+LOAN POLICIES
+
+1. Personal loans are available from $1,000 to $50,000.
+
+2. Loan tenure ranges from 12 to 84 months.
+
+3. Interest rates depend on credit history and risk assessment.
+
+4. Processing fees may apply.
+
+5. Early repayment is permitted after six months.
+
+6. Loan applications require proof of income.
+
+7. Credit checks are performed for all applicants.
+
+8. Employment verification may be required.
+
+9. Co-applicants may improve approval chances.
+
+10. Late payment penalties apply after the grace period.
+
+11. Loan statements are available online.
+
+12. Customers may request loan restructuring under qualifying circumstances.
+
+13. Auto-debit payment options are available.
+
+14. Loan closure certificates are issued within 7 business days.
+
+15. Delinquent loans may be referred for collection procedures.
+
+CREDIT CARD POLICIES
+
+1. Credit card limits are assigned based on creditworthiness.
+
+2. Billing cycles are typically 30 days.
+
+3. Minimum payment due is 5% of the outstanding balance.
+
+4. Interest charges apply to unpaid balances.
+
+5. Reward points are earned on eligible purchases.
+
+6. Annual fees vary by card type.
+
+7. International transactions are supported.
+
+8. Cash withdrawal fees apply.
+
+9. Lost cards should be reported immediately.
+
+10. Card replacement fees may apply.
+
+11. Auto-payment options are available.
+
+12. Statement notifications are delivered electronically.
+
+13. Credit limit increase requests may be submitted.
+
+14. Promotional offers may have separate terms.
+
+15. Fraud protection applies to eligible transactions.
+
+CUSTOMER SUPPORT POLICIES
+
+1. Customer support is available 24 hours a day, 7 days a week.
+
+2. Support channels include phone, email, live chat, and branch visits.
+
+3. Complaint acknowledgments are issued within 24 hours.
+
+4. Resolution targets vary by issue type.
+
+5. Escalation procedures are available for unresolved concerns.
+
+6. Feedback is reviewed to improve services.
+
+7. Service quality is monitored regularly.
+
+8. Language support is available for multiple regions.
+
+9. Accessibility accommodations are available.
+
+10. Customer satisfaction surveys may be conducted periodically.
+
+11. Branch representatives can assist with account-related services.
+
+12. Technical support is available for online banking issues.
+
+13. Security concerns receive priority handling.
+
+14. Complaint records are maintained for compliance purposes.
+
+15. Customers may request copies of previous communications.
+
