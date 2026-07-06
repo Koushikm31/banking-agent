@@ -1,0 +1,6 @@
+user_id,name,email,balance,account_status,kyc_verified,created_at
+user_001,Koushik,koushik@gmail.com,150000,active,True,2023-01-15
+user_002,Keerthan,keerthan@example.com,75000,active,True,2022-06-20
+user_003,Lokesh,lokesh@example.com,200000,frozen,False,2023-03-10
+user_004,Raju,Raju@example.com,50000,active,True,2021-11-05
+user_005,Ramu,Ramu@example.com,120000,active,True,2023-02-14
